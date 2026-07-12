@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# https://leetcode.com/problems/managers-with-at-least-5-direct-reports/
 with cte as (
     select
     *
